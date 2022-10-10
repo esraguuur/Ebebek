@@ -1,5 +1,5 @@
 # Ebebek
-/**
+
  * Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları ile çalışanların maaşlarını hesaplayan bir sınıf yazmalısınız. Bu sınıf 4 nitelik ve 5 metoda sahip olacaktır. Sizden konsol çıktısı halinde Adı, maaşı, çalışma saati, başlangıç yılı, vergi, bonus, maaş artışı, vergi ve bonuslarla birlikte maaş, toplam maaş değerlerini konsola yazdırmanızı bekliyoruz.
 * Sınıfın Nitelikleri
 * name : Çalışanın adı ve soyadı
@@ -18,5 +18,6 @@
 * Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 * toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 * Not: raiseSalary() hesaplarken vergi ve bonusları dikkate almalısınız.
- 
- */
+ ![image](https://user-images.githubusercontent.com/44709692/194885878-de806765-585d-40ff-b284-c81bc37a48df.png)
+
+
